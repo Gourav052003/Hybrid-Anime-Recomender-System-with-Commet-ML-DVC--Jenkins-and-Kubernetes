@@ -1,0 +1,7 @@
+.venv/
+Anime_Reccomendor_System.egg-info/
+.env
+test.py
+polynomial-text-474610-n0-96d340e6d330.json
+logs/
+*/__pycache__
