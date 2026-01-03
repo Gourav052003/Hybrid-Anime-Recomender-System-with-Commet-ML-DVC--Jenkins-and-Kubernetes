@@ -5,3 +5,9 @@ test.py
 polynomial-text-474610-n0-96d340e6d330.json
 logs/
 */__pycache__
+Artifacts/raw/
+Artifacts/processed/
+Artifacts/model/
+Artifacts/weights/
+Artifacts/model_checkpoint/
+Anime_Reccomendor_System.egg-info/

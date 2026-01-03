@@ -11,3 +11,4 @@ comet-ml
 dvc
 dvc-gs
 flask
+streamlit

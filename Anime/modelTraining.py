@@ -81,7 +81,7 @@ class ModelTraining:
                         x=x_train_array,
                         y=y_train,
                         batch_size=batch_size,
-                        epochs=20,
+                        epochs=1,
                         verbose=1,
                         validation_data=(x_test_array,y_test),
                         callbacks = my_callbacks
